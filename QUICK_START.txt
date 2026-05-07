@@ -1,0 +1,23 @@
+⚡ DÉMARRAGE RAPIDE
+
+1️⃣  Assurez-vous que **LMStudio** est en cours d'exécution sur http://127.0.0.1:1234
+
+2️⃣  Activez l'environnement et lancez:
+
+    cd /home/skjuve/Documents/testsmcp
+    source venv/bin/activate
+    python app.py
+
+   OU plus simplement:
+   
+    bash run.sh
+
+3️⃣  Testez avec:
+
+    >>> Crée un fichier test.py avec une fonction hello()
+    >>> Lis le contenu de app.py
+    >>> Exécute ls -la
+
+📚 Pour plus d'informations, consultez README.md
+
+🔧 Configuration dans .env (si besoin de changer le modèle ou l'URL)

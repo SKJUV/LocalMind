@@ -1,0 +1,48 @@
+# Environnement virtuel
+venv/
+env/
+ENV/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Configuration sensible
+.env
+.env.local
+.env.*.local
+!.env.example
+!.env.sample
+
+# Logs
+*.log
+logs/
+
+# Caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+*.egg-info/
+
+# Fichiers temporaires
+tmp/
+temp/
+*.tmp
+dist/
+build/
+site/
+htmlcov/
+*.bak
+*.backup

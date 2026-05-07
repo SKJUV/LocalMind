@@ -1,0 +1,6 @@
+# Installation optionnelle pour le développement
+pytest>=7.0.0
+black>=22.0.0
+flake8>=4.0.0
+mypy>=0.950
+pylint>=2.13.0
